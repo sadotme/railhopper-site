@@ -7,7 +7,7 @@ h2 { font-size: 1.15rem; margin: 2em 0 0.4em; }
 a { color: var(--link); }
 ul { padding-left: 1.2em; }
 li { margin: 0.3em 0; }
-.icon { display: block; border-radius: 22%; image-rendering: pixelated; }
+.icon { display: block; border-radius: 22%; }
 .lede { color: var(--muted); font-size: 1.1rem; }
 .date, .back, .foot { color: var(--muted); font-size: 0.95rem; }
 .foot { margin-top: 3em; }
